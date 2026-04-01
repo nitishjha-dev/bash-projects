@@ -1,0 +1,11 @@
+This is a simple text file.
+
+Name: Nitish
+Purpose: Practice Bash scripting and GitHub projects
+
+Topics I am learning:
+- Shell scripting
+- Linux commands
+- Git and GitHub
+
+This file is used for testing scripts.
